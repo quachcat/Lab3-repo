@@ -1,0 +1,2 @@
+Q: What is a topic you look forward to learning about in CS411?
+A: I look forward to learning from my peers about their coding methods, and how they tackle projects. For example, which processes they will want to incorporate in our project, and how those processes will aid our project development.
